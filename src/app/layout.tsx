@@ -25,6 +25,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
+        // Add this line below to ignore extension-injected attributes
+        suppressHydrationWarning={true}
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}

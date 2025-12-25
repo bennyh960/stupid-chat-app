@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1766693481930,
+    "message": "",
+    "sender": "userA",
+    "receiver": "userB",
+    "timestamp": "2025-12-25T20:11:21.930Z",
+    "attached": [
+      "userA_to_userB_1766693481928_סקיצה.png"
+    ],
+    "status": "downloaded"
+  },
+  {
+    "id": 1766693538041,
+    "message": "",
+    "sender": "userA",
+    "receiver": "userB",
+    "timestamp": "2025-12-25T20:12:18.041Z",
+    "attached": [
+      "userA_to_userB_1766693538040_IMG-20250622-WA0043.jpg"
+    ],
+    "status": "downloaded"
+  }
+]
